@@ -14,8 +14,8 @@ import systemusers.User;
 public class BookEmpruntDAO {
 
     private static final String DB_URL = "jdbc:oracle:thin:@localhost:1521:xe";
-    private static final String USER = "Moub";
-    private static final String PASS = "souzixx56";
+    private static final String USER = "YOUR-USERNAME";
+    private static final String PASS = "YOUR-PASSWORD";
 
     // Ajouter un nouvel emprunt
     public static void insertEmprunt(Emprunt e) throws SQLException {
