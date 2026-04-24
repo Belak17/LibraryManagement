@@ -5,6 +5,13 @@ This is a desktop application built with JavaFX for managing a library system.
 It allows users to manage books, members, and borrowing operations. The admin can add books , add some others 
 librarians, users and manage the library 
 
+## Class Diagram with Draw.Io
+<img width="700" height="418" alt="image" src="https://github.com/user-attachments/assets/24e35a94-a6e2-497b-a9f4-7459e3803f79" />
+
+## [ Presentation to explain the features and the project ]([Notre projet a vu le jour dans un contexte de transformation digitale accrue des entreprises. Face à la multiplication des outils de gestion et de communication, le Groupe Frame a identifié un bes (1).pdf](https://github.com/user-attachments/files/27053892/Notre.projet.a.vu.le.jour.dans.un.contexte.de.transformation.digitale.accrue.des.entreprises.Face.a.la.multiplication.des.outils.de.gestion.et.de.communication.le.Groupe.Frame.a.identifie.un.bes.1.pdf)
+)
+
+
 ## Technologies Used
 - Java
 - JavaFX
