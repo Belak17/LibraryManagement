@@ -11,8 +11,8 @@ import systemusers.User;
 public class UserDAO {
 
     private static final String DB_URL = "jdbc:oracle:thin:@localhost:1521:xe";
-    private static final String USER = "Moub";
-    private static final String PASS = "souzixx56";
+    private static final String USER = "YOUR-USERNAME";
+    private static final String PASS = "YOUR-PASSWORD";
 
     public static void insertUser(User user) throws SQLException {
         try (Connection conn = DriverManager.getConnection(DB_URL, USER, PASS)) {
