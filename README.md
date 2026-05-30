@@ -12,18 +12,18 @@
 
 #  Table of Contents
 
-- [About](#-about)
-- [Features](#-features)
-- [Technologies](#-technologies-used)
-- [Architecture](#-architecture)
-- [Class Diagram](#-class-diagram)
-- [Screenshots](#-screenshots)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Project Structure](#-project-structure)
-- [Future Improvements](#-future-improvements)
-- [Contributing](#-contributing)
-- [Author](#-author)
+- [About](#about)
+- [Features](#features)
+- [Technologies](#technologies-used)
+- [Architecture](#architecture)
+- [Class Diagram](#class-diagram)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [Future Improvements](#future-improvements)
+- [Contributing](#contributing)
+- [Author](#author)
 
 ---
 
